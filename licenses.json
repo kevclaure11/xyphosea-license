@@ -1,0 +1,14 @@
+{
+  "licenses": [
+    {
+      "account": 12345678,
+      "active": true,
+      "expires": "2027-12-31"
+    },
+    {
+      "account": 87654321,
+      "active": false,
+      "expires": "2026-12-31"
+    }
+  ]
+}
