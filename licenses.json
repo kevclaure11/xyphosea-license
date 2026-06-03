@@ -1,14 +1,14 @@
 {
-  "licenses": [
-    {
-      "account": 12345678,
-      "active": true,
-      "expires": "2027-12-31"
-    },
-    {
-      "account": 87654321,
-      "active": false,
-      "expires": "2026-12-31"
-    }
-  ]
+  "VIP-0001": {
+    "license_key": "XYP-VIP-8K4M-Q7XN-2P5D",
+    "product": "XyphosEA",
+    "plan": "VIP",
+    "active": true,
+    "lifetime": true,
+    "created": "2026-06-03",
+    "max_accounts": 10,
+    "accounts": [
+      336458831
+    ]
+  }
 }
