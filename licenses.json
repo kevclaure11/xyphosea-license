@@ -3,7 +3,7 @@
     "license_key": "XYP-VIP-8K4M-Q7XN-2P5D",
     "product": "XyphosEA",
     "plan": "VIP",
-    "active": false,
+    "active": true,
     "lifetime": true,
     "created": "2026-06-03",
     "max_accounts": 10,
