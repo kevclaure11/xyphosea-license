@@ -5,10 +5,35 @@
     "plan": "VIP",
     "active": true,
     "lifetime": true,
-    "created": "2026-06-03",
     "max_accounts": 10,
     "accounts": [
       336458831
+    ]
+  },
+
+  "MEN-0001": {
+    "license_key": "XYP-MEN-A9T2-K6WL-7R3F",
+    "product": "XyphosEA",
+    "plan": "MENSUAL",
+    "active": true,
+    "lifetime": false,
+    "expires": "2026-07-03",
+    "max_accounts": 3,
+    "accounts": [
+      111111111
+    ]
+  },
+
+  "PRU-0001": {
+    "license_key": "XYP-PRU-X4D8-M2QK-9V1N",
+    "product": "XyphosEA",
+    "plan": "PRUEBA",
+    "active": true,
+    "lifetime": false,
+    "expires": "2026-07-03",
+    "max_accounts": 1,
+    "accounts": [
+      222222222
     ]
   }
 }
