@@ -35,9 +35,10 @@
     "active": true,
     "lifetime": false,
     "expires": "2026-07-03",
-    "max_accounts": 1,
+    "max_accounts": 2,
     "accounts": [
-      101879651
+      101879651,
+      25681673
     ]
   }
 }
