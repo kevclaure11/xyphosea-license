@@ -33,7 +33,7 @@
     "product": "XyphosEA",
     "plan": "PRUEBA",
     "active": true,
-    "lifetime": false,
+    "lifetime": true,
     "expires": "2026-07-03",
     "max_accounts": 2,
     "accounts": [
@@ -43,13 +43,13 @@
    },
 
   "PRU-0002": {
-    "license_key": "XYP-PRU-X4D8-M2QK-9V1ñVG",
+    "license_key": "XYP-PRU-J7L3-S8HO-9V17G",
     "product": "XyphosEA",
     "plan": "PRUEBA",
     "active": true,
-    "lifetime": false,
+    "lifetime": true,
     "expires": "2026-08-03",
-    "max_accounts": 2,
+    "max_accounts": 1,
     "accounts": [
      25838869
     ]
