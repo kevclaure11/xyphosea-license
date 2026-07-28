@@ -40,5 +40,18 @@
       101879651,
       25681673
     ]
+   },
+
+  "PRU-0002": {
+    "license_key": "XYP-PRU-X4D8-M2QK-9V1N",
+    "product": "XyphosEA",
+    "plan": "PRUEBA",
+    "active": true,
+    "lifetime": false,
+    "expires": "2026-07-03",
+    "max_accounts": 2,
+    "accounts": [
+     25838869
+    ]
   }
 }
