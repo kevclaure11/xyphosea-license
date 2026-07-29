@@ -21,10 +21,10 @@
     "plan": "MENSUAL",
     "active": true,
     "lifetime": false,
-    "expires": "2026-07-03",
-    "max_accounts": 3,
+    "expires": "2026-08-28",
+    "max_accounts": 1,
     "accounts": [
-      111111111
+      25845447
     ]
   },
 
