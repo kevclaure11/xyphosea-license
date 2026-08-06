@@ -19,7 +19,7 @@
     "license_key": "XYP-MEN-A9T2-K6WL-7R3F",
     "product": "XyphosEA",
     "plan": "MENSUAL",
-    "active": true,
+    "active": false,
     "lifetime": false,
     "expires": "2026-08-28",
     "max_accounts": 1,
