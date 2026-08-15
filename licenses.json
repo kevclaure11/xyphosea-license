@@ -53,5 +53,18 @@
     "accounts": [
      25838869
     ]
+  },
+
+  "PRU-0003": {
+    "license_key": "XYP-PRU-F7P2-D5U3-3L19L",
+    "product": "XyphosEA",
+    "plan": "PRUEBA",
+    "active": true,
+    "lifetime": true,
+    "expires": "2026-08-03",
+    "max_accounts": 1,
+    "accounts": [
+     25907043
+    ]
   }
 }
