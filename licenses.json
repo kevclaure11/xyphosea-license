@@ -8,10 +8,27 @@
     "max_accounts": 10,
     "accounts": [
       29269101,
+      33096409,
+      35120177,
+      35120183,
       318177251,
       49665805,
       1200059645,
       25578541
+    ]
+  },
+  
+  "VIP-0002": {
+    "license_key": "XYP-VIP-9P1M-L2XH-3P8L",
+    "product": "XyphosEA",
+    "plan": "VIP",
+    "active": true,
+    "lifetime": true,
+    "max_accounts": 5,
+    "accounts": [
+      34659894,
+      34659901,
+      34659902
     ]
   },
 
