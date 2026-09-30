@@ -97,10 +97,11 @@
     "plan": "PRUEBA",
     "active": true,
     "lifetime": true,
-    "expires": "2026-09-30",
-    "max_accounts": 1,
+    "expires": "2026-10-30",
+    "max_accounts": 2,
     "accounts": [
-     26207126
+     26207126,
+     26207128
     ]
   }
 }
